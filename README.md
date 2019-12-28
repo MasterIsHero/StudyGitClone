@@ -15,4 +15,5 @@ git 中创建分支，是直接复制所在的分支，即如果我在dev分支�
 creating a new branch is quick and simple."featrue"。
 
 Switched to a new branch 'featrue'.
+git is free  a software.
 
