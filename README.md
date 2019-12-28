@@ -6,3 +6,5 @@ www
 aaa
 
 Creating a new branch is quick.
+
+Creating a new branch "demo".use  command "git switch -c demo".
